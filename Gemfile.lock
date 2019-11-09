@@ -61,7 +61,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
-    crass (1.0.4)
+    crass (1.0.5)
     erubi (1.8.0)
     execjs (2.7.0)
     facebook-messenger (1.4.0)
@@ -80,7 +80,7 @@ GEM
       concurrent-ruby (~> 1.0)
     jbuilder (2.9.1)
       activesupport (>= 4.2.0)
-    loofah (2.2.3)
+    loofah (2.3.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -95,12 +95,12 @@ GEM
     multi_xml (0.6.0)
     nio4r (2.3.1)
     nio4r (2.3.1-java)
-    nokogiri (1.10.3)
+    nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.3-java)
-    nokogiri (1.10.3-x64-mingw32)
+    nokogiri (1.10.5-java)
+    nokogiri (1.10.5-x64-mingw32)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.3-x86-mingw32)
+    nokogiri (1.10.5-x86-mingw32)
       mini_portile2 (~> 2.4.0)
     pg (0.21.0)
     pg (0.21.0-x64-mingw32)
@@ -188,6 +188,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
   x64-mingw32
   x86-mingw32
   x86-mswin32
